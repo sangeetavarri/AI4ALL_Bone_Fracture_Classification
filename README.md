@@ -30,7 +30,7 @@ Here are the current results:
      - Forearm Fracture: 0.454
      - Humerus: 0.583
      - Shoulder Fracture: 0.2
-     - Wrist Positive: 0.126.
+     - Wrist Positive: 0.126.   
    
 From these results, it’s clear that the Humerus class shows the best performance in terms of both precision and recall, while the Elbow Positive class is the most misclassified. In the future, we plan to focus on improving the Elbow Positive class, either by acquiring better data or adjusting class weights to improve its performance.
 
